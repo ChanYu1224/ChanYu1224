@@ -1,4 +1,4 @@
-### Hi there, I'm Yuchn👋
+### Hi there, I'm Yuta Nishikawa👋
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanYu1224&layout=compact&show_icons=true&theme=onedark&exclude_repo=nlp-100-knocks,naist-lecture" />
